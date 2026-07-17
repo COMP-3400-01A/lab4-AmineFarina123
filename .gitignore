@@ -1,0 +1,6 @@
+parta
+partb
+partc
+*.dSYM/
+build/
+.DS_Store
